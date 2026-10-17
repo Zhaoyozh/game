@@ -1,0 +1,2 @@
+xtgx.exe
+shoot.exe
